@@ -1,0 +1,11 @@
+E:\MyData\apyatkov\Visual Studio Projects\$GateWay\GateWay\bin\Release\GateWay.exe.config
+E:\MyData\apyatkov\Visual Studio Projects\$GateWay\GateWay\bin\Release\GateWay.exe
+E:\MyData\apyatkov\Visual Studio Projects\$GateWay\GateWay\bin\Release\GateWay.pdb
+E:\MyData\apyatkov\Visual Studio Projects\$GateWay\GateWay\obj\Release\GateWay.exe
+E:\MyData\apyatkov\Visual Studio Projects\$GateWay\GateWay\obj\Release\GateWay.pdb
+E:\MyData\apyatkov\Visual Studio Projects\$GateWay\GateWay\obj\Release\GateWay.csprojResolveAssemblyReference.cache
+D:\PROJECTS\VisualStudio\$GateWay\GateWay\bin\Release\GateWay.exe.config
+D:\PROJECTS\VisualStudio\$GateWay\GateWay\obj\Release\GateWay.exe
+D:\PROJECTS\VisualStudio\$GateWay\GateWay\obj\Release\GateWay.pdb
+D:\PROJECTS\VisualStudio\$GateWay\GateWay\bin\Release\GateWay.exe
+D:\PROJECTS\VisualStudio\$GateWay\GateWay\bin\Release\GateWay.pdb
